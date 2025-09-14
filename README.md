@@ -25,7 +25,7 @@ This project was built to practice:
 ## 🚀 Getting Started
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/aradhya0507/FBLogin-Android.git
 
 2. Open the project in Android Studio.
 3. Let Gradle sync the project.
